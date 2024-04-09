@@ -77,7 +77,7 @@ def bracket_2e_std(rhapi, generate_args):
 def register_handlers(args):
     for generator in [
         HeatGenerator(
-            "8 bracket, double elimination",
+            "Custom bracket, double elimination",
             bracket_2e_std,
             None,
             [
