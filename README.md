@@ -1,6 +1,9 @@
 # 8 pilot double elimination heat generator plugin
 This RotorHazard plugin allows race directors to use the generator function to create an 8 pilot double elimination bracket. Download this file into the plugins directory and restart the timer.
 
+## Credit
+This plugin is based on the existing multiGP 16 double elimination generator from RotorHazard. 
+
 ## Installation
 Copy the ``heatgenerator-double-elim-8 plugin`` into the ``src/server/plugins directory`` in your RotorHazard install. Start RotorHazard.
 
