@@ -1,0 +1,13 @@
+{
+    "name": "Heat Generator: 8 pilot double elimination",
+    "author": "Viki Baarathi",
+    "author_uri": "https://github.com/vikibaarathi",
+    "description": "Generates double elimination heats with 8 pilots.",
+    "info_uri": "https://github.com/Barracuda-Technologies/heatgenerator-double-elim-8",
+    "license": "MIT",
+    "license_uri": "https://github.com/vikibaarathi/RHCloudlink-plugin/blob/main/LICENSE",
+    "version": "1.0.0",
+    "required_rhapi_version": "1.0",
+    "update_uri": null,
+    "text_domain": null
+}
